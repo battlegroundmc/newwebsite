@@ -1,2 +1,5 @@
-# newwebsite
-BG's new website
+# BattleGround Website
+
+### Bug tracking
+
+To be implemented later
